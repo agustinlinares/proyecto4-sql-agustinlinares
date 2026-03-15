@@ -65,4 +65,4 @@ Opcionales (práctica extra):
 
 ## Autor
 
-Víctor G. V. — uso educativo.
+Agustín Linares Carrera — uso educativo.
